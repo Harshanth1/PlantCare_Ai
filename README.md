@@ -2,7 +2,7 @@
 
 A comprehensive plant care management system with AI-powered disease detection, crop recommendations, and farming tools.
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### ⚠️ IMPORTANT: Database Setup is MANDATORY!
 
